@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AsadaZhuyu
-- 👀 I’m interested in doing some interesting games
-- 🌱 I’m currently learning about the using of Unity
-- 📫 How to reach me 
-- You can communiate with me by QQ 2673177611 E-mail dinganli51@126.com
+- 👀 现在在开发游戏ing
+- 🌱 在这里我会分享我自己的代码和经验
+- 📫 QQ 2673177611  E-mail dinganli51@126.com
